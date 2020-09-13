@@ -8,7 +8,7 @@
 - 📚 Pursuing **Electronics and Computer Engineering**.
 - 💡 Currently working on **Analysis of COVID-19 Spread using ML Techniques**.
 - 📂 Worked on **NLP** and **ML** based projects.
-- 💻 Skills: **Python**, **C++**, **C**, **Data Structures and Algorithms**, **Machine Learning**, **Deep Learning**.
+- 💻 Skills: **Python**, **C++**, **C**, **Data Structures and Algorithms**, **Machine Learning**, **Deep Learning**
 - 📭 You can reach me through instagram. Username: **ritikasakharkar**.
 - 🎵 Fun fact: My hobbies are Yoga and Music. 
 
