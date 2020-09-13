@@ -3,7 +3,7 @@
 <!--
 **ritikasakharkar/ritikasakharkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--###👧 My name is **Ritika Sakharkar**.
+###-👧 My name is **Ritika Sakharkar**.
 -###🎓 I’m currently studying at **Vellore Institute of Technology, Chennai**.
 -###📚 I’m currently studying at **Vellore Institute of Technology, Chennai**.
 -###💡 I’m currently working on **Analysis of COVID-19 Spread using ML Techniques**.
