@@ -5,7 +5,7 @@
 -->
 - 👧 My name is **Ritika Sakharkar**.
 - 🎓 I’m currently studying at **Vellore Institute of Technology, Chennai**.
-- 📚 I’m currently studying at **Vellore Institute of Technology, Chennai**.
+- 📚 I’m currently pursuing **Electronics and Computer Engineering**.
 - 💡 I’m currently working on **Analysis of COVID-19 Spread using ML Techniques**.
 - 📂 I have worked on **NLP** and **ML** based projects.
 - 💻 I can code in **Python** and **C++**.
