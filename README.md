@@ -10,5 +10,5 @@
 - 📂 I have worked on **NLP** and **ML** based projects.
 - 💻 I can code in **Python** and **C++**.
 - 📭 You can reach me through instagram. Username: **ritikasakharkar**.
-- 🎵 Fun fact: My hobbies are yoga and music. 
+- 🎵 Fun fact: My hobbies are Yoga and Music. 
 
