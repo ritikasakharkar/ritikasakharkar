@@ -6,7 +6,7 @@
 - 👧 **Ritika Sakharkar**
 - 🎓 Currently studying at **Vellore Institute of Technology, Chennai**.
 - 📚 Pursuing **Electronics and Computer Engineering**.
-- 💡 Currently working on **Analysis of COVID-19 Spread using ML Techniques**.
+- 💡 Currently working on **Commodities Prices Forecasting for all Markets of India**.
 - 📂 Worked on **NLP** and **ML** based projects.
 - 💻 Skills: **Python**, **C++**, **C**, **Data Structures and Algorithms**, **Machine Learning**, **Deep Learning**
 - 📭 You can reach me through instagram. Username: **ritikasakharkar**.
